@@ -24,7 +24,7 @@
          "name": "Dubai",
          "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6t.png"
       },
-	  	   {
+	  {
          "author": "SpaceMan",
          "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9.png",
          "name": "The Shadow",
@@ -42,7 +42,7 @@
          "name": "Stationery",
          "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4t.png"
       },
-	   {
+	  {
          "author": "SpaceMan",
          "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7.png",
          "name": "Minion",
@@ -53,6 +53,6 @@
          "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8.png",
          "name": "The Expedition",
          "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8t.png"
-      },
+      }
    ]
 }	 
