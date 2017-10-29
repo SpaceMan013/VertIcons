@@ -1,59 +1,59 @@
 {
    "Wallpapers": 
    [
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1t.jpg",
 				"name": "Base Camp"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9t.jpg",
 				"name": "The Shadow"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8t.jpg",
 				"name": "The Expedition"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6t.jpg",
 				"name": "Dubai"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7t.jpg",
 				"name": "Minion"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2t.jpg",
 				"name": "Material Cyan"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3t.jpg",
 				"name": "Material Orange"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4t.jpg",
 				"name": "Back 2 School"
 			},
-   {
+			{
 				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5t.jpg",
 				"name": "Time Piece"
-			},
+			}
    ]
 }	 
