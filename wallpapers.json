@@ -1,58 +1,59 @@
 {
-   "wallpapers": [
-      {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1.png",
-         "name": "Base Camp",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2.png",
-         "name": "Material Cyan",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3.png",
-         "name": "Material Orange",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6.png",
-         "name": "Dubai",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9.png",
-         "name": "The Shadow",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5.png",
-         "name": "Time Piece",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4.png",
-         "name": "Stationery",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7.png",
-         "name": "Minion",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7t.png"
-      },
-	  {
-         "author": "SpaceMan",
-         "url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8.png",
-         "name": "The Expedition",
-         "thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8t.png"
-      }
+   "wallpapers": 
+   [
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1t.png",
+				"name": "Base Camp"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9t.png",
+				"name": "The Shadow"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8t.png",
+				"name": "The Expedition"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6t.png",
+				"name": "Dubai"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/7t.png",
+				"name": "Minion"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2t.png",
+				"name": "Material Cyan"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3t.png",
+				"name": "Material Orange"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4t.png",
+				"name": "Back 2 School"
+			},
+   {
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/5t.png",
+				"name": "Time Piece"
+			},
    ]
 }	 
