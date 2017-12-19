@@ -128,6 +128,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/16t.jpg",
 				"name": "Beyond",
 				"category": "vector"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/17.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/17t.jpg",
+				"name": "StarGazing",
+				"category": "vector"
 			}
    ]
 }	 
