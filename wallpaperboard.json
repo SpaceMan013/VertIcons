@@ -135,6 +135,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/17t.jpg",
 				"name": "StarGazing",
 				"category": "vector"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/18.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/18t.jpg",
+				"name": "Warm Hues",
+				"category": "vector, minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/19.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/19t.jpg",
+				"name": "Cool Hues",
+				"category": "vector, minimal"
 			}
    ]
 }	 
