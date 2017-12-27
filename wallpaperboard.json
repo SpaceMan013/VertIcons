@@ -163,7 +163,50 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/21t.jpg",
 				"name": "Sleepy Owl",
 				"category": "vector"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/22.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/22.jpg",
+				"name": "Orange Madness",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/23.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/23.jpg",
+				"name": "Red Madness",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/24.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/24.jpg",
+				"name": "Mauve Madness",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/25.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/25.jpg",
+				"name": "Pink Madness",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/26.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/26.jpg",
+				"name": "Teal Madness",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/27.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/27.jpg",
+				"name": "Purple Madness",
+				"category": "minimal"
 			}
+
 
    ]
 }	 
