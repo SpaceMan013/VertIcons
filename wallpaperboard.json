@@ -205,8 +205,14 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/27.jpg",
 				"name": "Purple Madness",
 				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2018.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2018t.jpg",
+				"name": "TinselTown",
+				"category": "vector"
 			}
-
 
    ]
 }	 
