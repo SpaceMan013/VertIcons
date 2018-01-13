@@ -226,6 +226,26 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30t.jpg",
 				"name": "HillyRoads",
 				"category": "vector"
+			},{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30t.jpg",
+				"name": "HillyRoads",
+				"category": "vector"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/31.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/31.jpg",
+				"name": "Ace",
+				"category": "minimal"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/32.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/32.jpg",
+				"name": "AlienAce",
+				"category": "minimal"
 			}
 
    ]
