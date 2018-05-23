@@ -226,12 +226,6 @@
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30t.jpg",
 				"name": "HillyRoads",
 				"category": "vector"
-			},{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/30t.jpg",
-				"name": "HillyRoads",
-				"category": "vector"
 			},
 			{
 				"author": "SpaceMan",
@@ -273,6 +267,13 @@
 				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/36.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/36t.jpg",
 				"name": "Dusk",
+				"category": "minimal, vector"
+			},
+			{
+				"author": "SpaceMan",
+				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/37.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/37t.jpg",
+				"name": "Knight",
 				"category": "minimal, vector"
 			}
 
