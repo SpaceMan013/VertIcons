@@ -1,161 +1,691 @@
-{
-   "Wallpapers": 
-   [
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/1t.jpg",
-				"name": "Base Camp"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/9t.jpg",
-				"name": "The Shadow"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/8t.jpg",
-				"name": "The Expedition"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/6t.jpg",
-				"name": "Dubai"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2t.jpg",
-				"name": "Material Cyan"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/3t.jpg",
-				"name": "Material Orange"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/4t.jpg",
-				"name": "Back 2 School"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/10.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/10t.jpg",
-				"name": "Mad Season"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/11.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/11.jpg",
-				"name": "Yellow Madness"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/12.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/12.jpg",
-				"name": "Green Madness"
-			},
-				{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/13.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/13.jpg",
-				"name": "Blue Madness"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/15.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/15t.jpg",
-				"name": "Treasure Hunt"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/16.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/16t.jpg",
-				"name": "Beyond"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/17.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/17t.jpg",
-				"name": "StarGazing"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2018.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/2018t.jpg",
-				"name": "TinselTown"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/29.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/29t.jpg",
-				"name": "Happy New Year"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/34.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/34t.jpg",
-				"name": "Triple Trouble"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/35.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/35t.jpg",
-				"name": "The Evil Shadow"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/36.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/36t.jpg",
-				"name": "Dusk"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/16.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/16t.jpg",
-				"name": "Beyond"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/37.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/37t.jpg",
-				"name": "Knight"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/18.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/18t.jpg",
-				"name": "Warm Hues"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/19.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/19t.jpg",
-				"name": "Cool Hues"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/33.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/33t.jpg",
-				"name": "The Future"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/20.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/20t.jpg",
-				"name": "To Arms"
-			},
-			{
-				"author": "SpaceMan",
-				"url": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/31.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SpaceMan013/VertIcons/master/31t.jpg",
-				"name": "Ace"
-			}
-   ]
-}	 
+[
+	{
+		"name": "Made for Speed: Revolt",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/86.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/86t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Mountain Hike",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/84.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/84t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Mountain Hike 2",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85t.png",
+		"collections": "Landscape|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Airport",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/83.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/83t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Journey",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/82.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/82t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Made for Speed",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/81.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/81t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Solar System",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/79.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/79t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Koi Pond",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/80.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/80t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "Triangulation",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/78.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/78t.png",
+		"collections": "Minimal|Latest",
+		"downloadable": true
+	},
+	{
+		"name": "The World - OLED",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/76.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/76t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The World",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/77.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/77t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Space Race",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/75.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/75t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Explore at Night",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/74t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Explore",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/73t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Success",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/72t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "Forward Forever",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/71.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/71t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "Chess",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/70.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/70t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Color Blocks",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/68t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "New Horizon",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/69t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Telescope",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/67t.png",
+		"collections": "Stamps",
+		"downloadable": true
+	},
+	{
+		"name": "Geometry",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/66t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "SmartPhone Blue",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/63t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "SmartPhone Teal",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Happy New Year",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Edinburg",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Container Ship",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Blue and Gold Macaw",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61t.png",
+		"collections": "Stamps",
+		"downloadable": true
+	},
+	{
+		"name": "Grosbeak",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60t.png",
+		"collections": "Stamps",
+		"downloadable": true
+	},
+	{
+		"name": "Material 1",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/54.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/54t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material 2",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/55.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/55t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material 6",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material 3",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/56.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/56t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material 4",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/57.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/57t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material 5",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/58.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/58t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Aurora Borealis",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/47t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Beach",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/48.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/48t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Mountainside",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/50.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/50t.png",
+		"collections": "Minimal|Landscape",
+		"downloadable": true
+	},
+		{
+		"name": "Snowy Slopes",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/51.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/51t.png",
+		"collections": "Minimal|Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Mountains",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/1.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/1t.png",
+		"collections": "Landscape|Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Macaw",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/49.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/49t.png",
+		"collections": "Stamps",
+		"downloadable": true
+	},
+	{
+		"name": "Atlas V",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/46.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/46t.png",
+		"collections": "Stamps",
+		"downloadable": true
+	},
+	{
+		"name": "Stationary",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/4.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/4t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Wristwatch",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/5.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/5t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The Mirage",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/6.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/6t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Minion",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/7.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/7t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The Expedition",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/8.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/8t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The Shadow",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/9.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/9t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Seoul",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/29t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Chicago",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/30t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Dubai",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/31t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Hongkong",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/32t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Kuala Lumpur",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/33t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "London",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/34t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Moscow",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/35t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "New York",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/36t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Paris",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/37t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Rio de Janeiro",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/38t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Shanghai",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/39t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Shenzen",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/40t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Singapore",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/41t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Taipei",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/42t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+		{
+		"name": "Tokyo",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/43t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Beijing",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/44t.png",
+		"collections": "Cityscape",
+		"downloadable": true
+	},
+	{
+		"name": "Cyan Madness",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/10.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/10.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Yellow Madness",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/11.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/11.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Green Madness",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/12.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/12.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Blue Madness",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/13.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/13.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Blackhole",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/14.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/14t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Treasure Hunt",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/15.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/15t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Beyond...",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/16.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/16t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "Counting Stars",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/17.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/17t.png",
+		"collections": "Abstract",
+		"downloadable": true
+	},
+	{
+		"name": "Warm Hues",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/18.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/18t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Cool Hues",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/19.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/19t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "To Arms",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/20.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/20t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The Knight",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/22.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/22t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Sleepy Owl",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/21.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/21t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Dawn",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/23.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/23t.png",
+		"collections": "Landscape",
+		"downloadable": true
+	},
+	{
+		"name": "Evil Shadow",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/24.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/24t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Ace",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/25.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/25t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Alienware",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/26.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/26.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "The Future",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/27.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/27t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Minions",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/28.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/28t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Contours [teal]",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/52.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/52t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Contours [blue]",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/53.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/53t.png",
+		"collections": "Minimal",
+		"downloadable": true
+	},
+	{
+		"name": "Material Blue",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/2t.png",
+		"collections": "Material",
+		"downloadable": true
+	},
+	{
+		"name": "Material Orange",
+		"author": "SpaceMan",
+		"url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3.png",
+		"thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/3t.png",
+		"collections": "Material",
+		"downloadable": true
+	}
+	
+]
